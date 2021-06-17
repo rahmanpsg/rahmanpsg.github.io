@@ -1,0 +1,100 @@
+[
+      {
+        "imgPath": "bimbingan-skripsi",
+        "imgTotal": 7,
+        "title": "Bimbingan Skripsi Online",
+        "platform": "Android + Web",
+        "app": "Cordova, framework7, CodeIgniter, Firebase"
+      },
+      {
+        "imgPath": "mal-property",
+        "imgTotal": 2,
+        "title": "Mal Property",
+        "platform": "Android",
+        "app": "Cordova, framework7, CodeIgniter, Firebase"
+      },
+      {
+        "imgPath": "ujian-komprehensif",
+        "imgTotal": 10,
+        "title": "Ujian Komprehensif",
+        "platform": "Web",
+        "app": "Vue + Vuetify + Express + NodeJS + MongoDB"
+      },
+      {
+        "imgPath": "bimbingan-konseling",
+        "imgTotal": 7,
+        "title": "Bimbingan Konseling",
+        "platform": "Web",
+        "app": "CodeIgniter + Bootstrap + Jquery"
+      },
+      {
+        "imgPath": "e-commerce",
+        "imgTotal": 2,
+        "title": "E-Commerce",
+        "platform": "Android",
+        "app": "Cordova, framework7, CodeIgniter, Firebase"
+      },
+      {
+        "imgPath": "reservasi",
+        "imgTotal": 7,
+        "title": "Reservasi Cafe",
+        "platform": "Android + Web",
+        "app": "Cordova, framework7, CodeIgniter, Firebase"
+      },
+      {
+        "imgPath": "jadwal",
+        "imgTotal": 7,
+        "title": "Sistem Penjadwalan Matakuliah",
+        "platform": "Web",
+        "app": "CodeIgniter + Bootstrap + Jquery"
+      },
+      {
+        "imgPath": "c45",
+        "imgTotal": 7,
+        "title": "Sistem Pengambilan Keputusan",
+        "platform": "Web",
+        "app": "PHP Native + Bootstrap + Jquery"
+      },
+      {
+        "imgPath": "rusunawa",
+        "imgTotal": 7,
+        "title": "Sistem Booking Kamar Rusunawa",
+        "platform": "Android + Web",
+        "app": "Cordova, framework7, CodeIgniter, Firebase"
+      },
+      {
+        "imgPath": "pmi",
+        "imgTotal": 9,
+        "title": "Sistem Informasi Ketersediaan Darah",
+        "platform": "Android + Web",
+        "app": "Cordova, framework7, CodeIgniter, Firebase"
+      },
+      {
+        "imgPath": "sensus-penduduk",
+        "imgTotal": 7,
+        "title": "E-Sensus Penduduk",
+        "platform": "Web",
+        "app": "CodeIgniter + Bootstrap + Jquery"
+      },
+      {
+        "imgPath": "skm",
+        "imgTotal": 10,
+        "title": "Survei Kepuasan Masyarakat",
+        "platform": "Web",
+        "app": "CodeIgniter + Vue + Bootstrap + Jquery"
+      },
+      {
+        "imgPath": "pengaduan-pln",
+        "imgTotal": 8,
+        "title": "Pengaduan PLN",
+        "platform": "Web",
+        "app": "CodeIgniter + Bootstrap + Jquery + Firebase"
+      },
+      {
+        "imgPath": "penagihan-telkom",
+        "imgTotal": 6,
+        "title": "Penagihan Telkom Akses",
+        "platform": "Web",
+        "app": "CodeIgniter + Bootstrap + Jquery"
+      }
+    ]
