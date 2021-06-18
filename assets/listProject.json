@@ -4,14 +4,28 @@
         "imgTotal": 7,
         "title": "Bimbingan Skripsi Online",
         "platform": "Android + Web",
-        "app": "Cordova, framework7, CodeIgniter, Firebase"
+        "app": "Cordova, Framework7, CodeIgniter, Firebase"
       },
       {
         "imgPath": "mal-property",
         "imgTotal": 2,
         "title": "Mal Property",
         "platform": "Android",
-        "app": "Cordova, framework7, CodeIgniter, Firebase"
+        "app": "Cordova, Framework7, CodeIgniter, Firebase"
+      },      
+      {
+        "imgPath": "e-commerce",
+        "imgTotal": 2,
+        "title": "E-Commerce",
+        "platform": "Android",
+        "app": "Cordova, Framework7, CodeIgniter, Firebase"
+      },
+      {
+        "imgPath": "reservasi",
+        "imgTotal": 7,
+        "title": "Reservasi Cafe",
+        "platform": "Android + Web",
+        "app": "Cordova, Framework7, CodeIgniter, Firebase"
       },
       {
         "imgPath": "ujian-komprehensif",
@@ -26,20 +40,6 @@
         "title": "Bimbingan Konseling",
         "platform": "Web",
         "app": "CodeIgniter + Bootstrap + Jquery"
-      },
-      {
-        "imgPath": "e-commerce",
-        "imgTotal": 2,
-        "title": "E-Commerce",
-        "platform": "Android",
-        "app": "Cordova, framework7, CodeIgniter, Firebase"
-      },
-      {
-        "imgPath": "reservasi",
-        "imgTotal": 7,
-        "title": "Reservasi Cafe",
-        "platform": "Android + Web",
-        "app": "Cordova, framework7, CodeIgniter, Firebase"
       },
       {
         "imgPath": "jadwal",
@@ -60,14 +60,14 @@
         "imgTotal": 7,
         "title": "Sistem Booking Kamar Rusunawa",
         "platform": "Android + Web",
-        "app": "Cordova, framework7, CodeIgniter, Firebase"
+        "app": "Cordova, Framework7, CodeIgniter, Firebase"
       },
       {
         "imgPath": "pmi",
         "imgTotal": 9,
         "title": "Sistem Informasi Ketersediaan Darah",
         "platform": "Android + Web",
-        "app": "Cordova, framework7, CodeIgniter, Firebase"
+        "app": "Cordova, Framework7, CodeIgniter, Firebase"
       },
       {
         "imgPath": "sensus-penduduk",
